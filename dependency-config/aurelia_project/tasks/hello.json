@@ -1,0 +1,11 @@
+{
+  "name": "hello",
+  "description": "Shows hello <text>",
+  "flags": [
+    {
+      "name": "text",
+      "description": "The text to display",
+      "type": "string"
+    }
+  ]
+}
